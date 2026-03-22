@@ -2,11 +2,11 @@
   "name": "dark-themes",
   "displayName": "Dark Themes",
   "description": "A sleek collection of custom Visual Studio Code themes, including Violet Dark, Orange Dark and more by ZomboySoul.",
-  "version": "0.2.0",
-  "publisher": "ZomboySoul",
+  "version": "0.2.5",
+  "publisher": "Bytech Tecnology",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZomboySoul/dark-themes"
+    "url": "https://github.com/Bytech-Techonology/dark-themes"
   },
   "engines": {
     "vscode": "^1.50.0"
